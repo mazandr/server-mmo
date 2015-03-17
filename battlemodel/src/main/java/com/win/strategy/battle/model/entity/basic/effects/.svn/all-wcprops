@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects
+END
+BMEffectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/msg_mmo_server/!svn/ver/1134/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/BMEffectFactory.java
+END
+BMBaseEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/BMBaseEffect.java
+END
+BMEffectApplyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/BMEffectApplyType.java
+END
+IBMEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/IBMEffect.java
+END

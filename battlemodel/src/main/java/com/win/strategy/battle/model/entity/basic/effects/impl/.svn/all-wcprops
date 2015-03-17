@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl
+END
+BMDamageEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl/BMDamageEffect.java
+END
+BMDamageModificationEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/msg_mmo_server/!svn/ver/1134/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl/BMDamageModificationEffect.java
+END
+BMMovementModificationEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl/BMMovementModificationEffect.java
+END
+BMHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl/BMHealEffect.java
+END
+BMAttackSpeedModificationEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/effects/impl/BMAttackSpeedModificationEffect.java
+END

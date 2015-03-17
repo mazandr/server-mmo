@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/units
+END
+BMBaseUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/units/BMBaseUnit.java
+END
+BMTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/units/BMTransport.java
+END

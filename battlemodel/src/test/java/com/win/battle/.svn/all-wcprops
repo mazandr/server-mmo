@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle
+END
+Pattern06SplashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern06SplashTest.java
+END
+Pattern08SplashMegaphoneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern08SplashMegaphoneTest.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Utility.java
+END
+UnitLandingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/UnitLandingTest.java
+END
+Pattern12CapacityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern12CapacityTest.java
+END
+Pattern11CapacityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern11CapacityTest.java
+END
+Pattern10CapacityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern10CapacityTest.java
+END
+BaseBattleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/BaseBattleTest.java
+END
+Pattern09SplashAlcoholstandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern09SplashAlcoholstandTest.java
+END
+Pattern05MovementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern05MovementTest.java
+END
+ShotTimingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/ShotTimingTest.java
+END
+Pattern04MovementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern04MovementTest.java
+END
+Pattern03MovementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern03MovementTest.java
+END
+Pattern07SplashBillboardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern07SplashBillboardTest.java
+END
+Pattern02DamageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern02DamageTest.java
+END
+Pattern13DamageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern13DamageTest.java
+END
+Pattern01DamageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/Pattern01DamageTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils
+END
+RemoteGlobalConfigurationLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/RemoteGlobalConfigurationLoader.java
+END
+BaseRemoteConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/BaseRemoteConfiguration.java
+END
+LocalTestBattleConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/LocalTestBattleConfigLoader.java
+END
+AccessURLWithAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/AccessURLWithAuthentication.java
+END
+IRemoteConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/IRemoteConfiguration.java
+END
+LocalWorldModelConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/LocalWorldModelConfigLoader.java
+END
+RemoteTestBattleConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/RemoteTestBattleConfigLoader.java
+END
+GlobalConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/GlobalConfiguration.java
+END
+RemoteWorldModelConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/test/java/com/win/battle/utils/RemoteWorldModelConfigLoader.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/msg_mmo_server/!svn/ver/1325/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/building
+END
+BMDefenceBuildingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/msg_mmo_server/!svn/ver/1134/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/building/BMDefenceBuildingBehavior.java
+END
+BMBaseBiuldingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/building/BMBaseBiuldingBehavior.java
+END
+BMCoverBuildingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/msg_mmo_server/!svn/ver/1325/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/building/BMCoverBuildingBehavior.java
+END

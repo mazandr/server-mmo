@@ -1,0 +1,8 @@
+url.local=localhost
+url.local.port=8080
+url.local.protocol=http
+
+url.remote=10.37.130.42
+url.remote.port=8080
+url.remote.protocol=http
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/msg_mmo_server/!svn/ver/1325/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model
+END
+BattleModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/BattleModelBuilder.java
+END
+BattleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/BattleProvider.java
+END
+BattleModelEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/BattleModelEngine.java
+END

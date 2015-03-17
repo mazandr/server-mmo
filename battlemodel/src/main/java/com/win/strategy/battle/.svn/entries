@@ -1,0 +1,53 @@
+8
+
+dir
+1358
+https://src.nt.lan/svn/msg_mmo_server/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle
+https://src.nt.lan/svn/msg_mmo_server
+
+
+
+2015-02-14T13:01:22.697053Z
+1325
+vlischyshyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54d32a4f-fbce-8b46-bc6a-2b92e1180473
+
+BMWinConditionHandler.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+d44f83b1dc0eddd6e4d608d40b061a12
+2014-10-23T21:29:16.726294Z
+759
+vlischyshyn
+has-props
+
+configuration
+dir
+
+model
+dir
+
+pathfinder
+dir
+
+utils
+dir
+

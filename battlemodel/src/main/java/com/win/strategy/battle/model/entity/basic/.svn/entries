@@ -1,0 +1,189 @@
+8
+
+dir
+1358
+https://src.nt.lan/svn/msg_mmo_server/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic
+https://src.nt.lan/svn/msg_mmo_server
+
+
+
+2015-01-16T12:27:44.235549Z
+1154
+vlischyshyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54d32a4f-fbce-8b46-bc6a-2b92e1180473
+
+BMAttackPriorityType.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+4070adde2b62241fecd6e1b78ffdf6f1
+2014-08-30T18:23:02.920637Z
+637
+vlischyshyn
+has-props
+
+BMEntity.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+a1ed238165ac094c7effe9be22ddd03b
+2014-12-07T09:33:46.301252Z
+951
+vlischyshyn
+has-props
+
+BMFractionEntity.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+b6d3599d9310ce90b81e35b059c0c6fc
+2015-01-06T08:37:18.812450Z
+1081
+vlischyshyn
+has-props
+
+BMObject.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+879c8fa4357dc9afafaedfa29ba9c00e
+2014-07-23T12:11:26.296225Z
+445
+vlischyshyn
+has-props
+
+IBMAttactable.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+e5bdb348b09b04841ba5cf429b85aff4
+2014-10-21T12:16:29.887636Z
+738
+vlischyshyn
+has-props
+
+IBMBehaviorable.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+3fce51e96a86c4de67f907d23f745ec9
+2014-08-30T18:23:02.920637Z
+637
+vlischyshyn
+has-props
+
+IBMIndentifier.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+af29b57a4d9b64f7489ec3631811c6d7
+2014-07-23T12:11:26.296225Z
+445
+vlischyshyn
+has-props
+
+IBMLocable.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+019b14df26745ef631b4db2df2f8b162
+2014-10-21T12:16:29.887636Z
+738
+vlischyshyn
+has-props
+
+IBMMovable.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+2f9ac0148f4daa7c9b41ea647dc5480f
+2014-04-17T08:41:07.549417Z
+81
+vlischyshyn
+has-props
+
+IBMNotification.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+2038a4971ef3ecf48834fd228358f928
+2014-04-17T08:41:07.549417Z
+81
+vlischyshyn
+has-props
+
+IBMTargetable.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+a6bc388e5d3e3aebdd6c5c3c678b739e
+2014-08-22T08:52:44.087571Z
+626
+vlischyshyn
+has-props
+
+actions
+dir
+
+buildings
+dir
+
+effects
+dir
+
+resources
+dir
+
+skills
+dir
+
+units
+dir
+

@@ -1,0 +1,270 @@
+{
+    "buildings": {
+        "hero_house": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 15000,
+                    "unlocks": {
+                        "bank": 1,
+                        "casino": 1,
+                        "gym": 1,
+                        "distilery": 1,
+                        "bar": 1,
+                        "warehouse": 1
+                    },
+                    "dur": 1,
+                    "hsp": 11,
+                    "xp": 0,
+                    "req": {
+                    },
+                    "sy": 9,
+                    "cost": {
+                    },
+                    "winC": false,
+                    "sx": 9,
+                    "vr": 30
+                }
+            },
+            "group": "building.common",
+            "main": true
+        }
+    },
+    "units": {
+        "gremlin_sapper": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 150,
+                    "dps": 0,
+                    "vr": 15,
+                    "cost": {
+                        "mana": 400
+                    },
+                    "dur": 45,
+                    "tt": "any",
+                    "hsp": 5,
+                    "req": {
+                        "bar": 4
+                    },
+                    "spd": 25,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "area",
+                            "value": 20,
+                            "acT": {
+                               "type": "instant",
+                               "delay": 1000,
+                               "time": 2000,
+                               "tick": 0,
+                               "maxStack": 1,
+                               "acSpd": 0,
+                               "rT": 1000,
+                               "cTT": 0                                
+                            },
+                            "sdr": 5,
+                            "ftm": 1,
+                            "att": "units"
+                        }
+                    ],
+                    "abR": 15
+                }
+            }
+        },
+        "zombie": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 150,
+                    "dps": 100,
+                    "sdr": 0,
+                    "attR": 1,
+                    "ftm": 2,
+                    "vr": 10,
+                    "attT": 1.5,
+                    "inE": {
+                        "hp": 0,
+                        "dps": 100,
+                        "sdr": 0,
+                        "attR": 1,
+                        "attT": 1.5
+                    },
+                    "cost": {
+                        "mana": 30
+                    },
+                    "dur": 20,
+                    "tt": "any",
+                    "hsp": 1,
+                    "req": {
+                        "bar": 1
+                    },
+                    "spd": 4,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 20,
+                            "acT": {
+                                   "type": "instant",
+                                    "delay": 1000,
+                                    "time": 0,
+                                    "tick": 0,
+                                    "maxStack": 1,
+                                    "acSpd": 0,
+                                    "rT": 1000,
+                                    "cTT": 0
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "offensive",
+                            "lidx": "0"
+                        }
+                    ],
+                    "abR": 15
+                }
+            }
+        },
+        "enemyBoss": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 1,
+                    "dur": 0,
+                    "hsp": 0,
+                    "vr": 0,
+                    "abR": 0,
+                    "spd": 0,
+                    "tt": "any",
+                    "req": {
+                    },
+                    "cost": {
+                    },
+                    "actions": [
+                    ]
+                }
+            }
+        }
+    },
+    "skills": {
+        "heal": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 100,
+                    "clDwn": 10000,
+                    "actions": [
+                        {
+                            "skT": "heal",
+                            "arT": "",
+                            "sdr": 15,
+                            "value": 100,
+                            "acT": {
+                                "type": "distributed",
+                                "delay": 0,
+                                "rT": 1000,
+                                "cTT": 0,                                
+                                "time": 10000,
+                                "tick": 500
+                            },
+                            "stt": "units",
+                            "apT": "area",
+                            "abT": "heal"
+                        }
+                    ]
+                }
+            }
+        },
+        "damage": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 100,
+                    "clDwn": 1000,
+                    "actions": [
+                        {
+                            "skT": "damage",
+                            "arT": "",
+                            "sdr": 20,
+                            "value": 500,
+                            "acT": {
+                                   "type": "instant",
+                                    "delay": 1000,
+                                    "time": 0,
+                                    "tick": 0,
+                                    "maxStack": 1,
+                                    "acSpd": 0,
+                                    "rT": 1000,
+                                    "cTT": 0
+                            },
+                            "stt": "any",
+                            "apT": "instances",
+                            "abT": "damage"
+                        }
+                    ]
+                }
+            }
+        },
+        "handOfGod": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 2000,
+                    "clDwn": 200000,
+                    "actions": [
+                        {
+                            "skT": "damage",
+                            "arT": "",
+                            "sdr": 100,
+                            "value": 1000,
+                            "acT": {
+                                   "type": "instant",
+                                    "delay": 1000,
+                                    "time": 0,
+                                    "tick": 0,
+                                    "maxStack": 1,
+                                    "acSpd": 0,
+                                    "rT": 1000,
+                                    "cTT": 0
+                            },
+                            "stt": "any",
+                            "apT": "instances",
+                            "abT": "damage"
+                        },
+                        {
+                            "skT": "heal",
+                            "arT": "",
+                            "sdr": 50,
+                            "value": 200,
+                            "acT": {
+                                "type": "distributed",
+                                "delay": 0,
+                                "time": 10000,
+                                "tick": 500
+                            },
+                            "stt": "any",
+                            "apT": "area",
+                            "abT": "heal"
+                        }
+                    ]
+                }
+            }
+        },
+        "moveSkill": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 100,
+                    "clDwn": 1000,
+                    "actions": [
+                        {
+                            "abT": "command_move",
+                            "arT": "",
+                            "sdr": 18,
+                            "value": 0,
+                            "acT": {
+                                "type": "",
+                                "delay": 0,
+                                "time": 5000,
+                                "tick": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

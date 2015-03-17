@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl
+END
+BMCaptureBuildingCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMCaptureBuildingCommand.java
+END
+BMMoveUnitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMMoveUnitCommand.java
+END
+BMEnterUnitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMEnterUnitCommand.java
+END
+BMAddTransportCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMAddTransportCommand.java
+END
+BMBaseBattleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMBaseBattleCommand.java
+END
+BMUseSkillCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/command/impl/BMUseSkillCommand.java
+END

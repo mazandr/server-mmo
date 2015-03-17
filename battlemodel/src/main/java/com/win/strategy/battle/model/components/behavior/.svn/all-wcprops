@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/msg_mmo_server/!svn/ver/1325/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior
+END
+BMBaseBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/BMBaseBehavior.java
+END
+BMBehaviorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/BMBehaviorFactory.java
+END
+BMBattleBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/BMBattleBehavior.java
+END

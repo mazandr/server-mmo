@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/msg_mmo_server/!svn/ver/1183/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity
+END
+BMField.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMField.java
+END
+BMEntityActionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMEntityActionState.java
+END
+BMCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/msg_mmo_server/!svn/ver/1183/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMCell.java
+END
+BMGameResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMGameResult.java
+END
+BMCellType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMCellType.java
+END
+BMMovementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/BMMovementType.java
+END

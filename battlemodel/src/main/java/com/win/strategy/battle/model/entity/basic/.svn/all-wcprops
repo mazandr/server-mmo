@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic
+END
+IBMBehaviorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMBehaviorable.java
+END
+BMFractionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/msg_mmo_server/!svn/ver/1081/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/BMFractionEntity.java
+END
+IBMTargetable.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMTargetable.java
+END
+IBMNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMNotification.java
+END
+IBMAttactable.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMAttactable.java
+END
+BMEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/BMEntity.java
+END
+IBMMovable.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMMovable.java
+END
+BMObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/BMObject.java
+END
+IBMIndentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMIndentifier.java
+END
+IBMLocable.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/IBMLocable.java
+END
+BMAttackPriorityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/BMAttackPriorityType.java
+END

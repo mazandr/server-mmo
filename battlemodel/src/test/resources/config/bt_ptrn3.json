@@ -1,0 +1,11 @@
+{"field":{"maxY":50,"maxX":50,"roadCellsRect":"1x1,1x2","speedMultiplier":1,"totalBattleTime":2000000,"speedKoef":12,"fogCellsRect":"1x1,1x2"},
+"units":[{"name":"allyUnit1","lvl":1,"type":"zombie","behavior":"atack","fraction":1,"position":"0x0","behaviorPrms":""}],
+"buildings":[{"name":"enemy","type":"hero_house","lvl":1,"fraction":2,"position":"40x40","winC":true,"wr":{"buildingWinRate":120},"units":{}},
+			 {"name":"ally","type":"hero_house","fraction":1,"position":"01x40","lvl":1,"winC":true,"wr":{"buildingWinRate":120},"units":{}},
+			 {"name":"enemycar","type":"zombiecar","fraction":2,"position":"33x0","lvl":1,"winC":false,"wr":{},"units":{"zombie":{"count":1,"lvl":1,"behavior":"hold"}}},
+			 {"name":"mycar","type":"zombiecar","fraction":1,"position":"41x8","lvl":1,"winC":false,"wr":{},"units":{}}],
+"available_units":[],
+"hero":{"lvl":2,"position":"10x100","onfield":false},
+"cars":[],
+"available_skills":[],"garbage":[]}
+

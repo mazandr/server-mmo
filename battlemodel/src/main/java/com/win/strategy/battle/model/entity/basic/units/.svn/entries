@@ -1,0 +1,54 @@
+8
+
+dir
+1358
+https://src.nt.lan/svn/msg_mmo_server/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/units
+https://src.nt.lan/svn/msg_mmo_server
+
+
+
+2014-12-25T15:04:10.836755Z
+1060
+okopach
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54d32a4f-fbce-8b46-bc6a-2b92e1180473
+
+BMBaseUnit.java
+file
+
+
+
+
+2015-02-14T13:03:19.000000Z
+b608da30db9fb47343a44d946faeb214
+2014-12-25T15:04:10.836755Z
+1060
+okopach
+has-props
+
+BMTransport.java
+file
+
+
+
+
+2015-02-14T13:03:19.000000Z
+8a336a2f24f6cb3c0c83b56fd93378df
+2014-11-13T09:17:44.802800Z
+825
+vlischyshyn
+has-props
+

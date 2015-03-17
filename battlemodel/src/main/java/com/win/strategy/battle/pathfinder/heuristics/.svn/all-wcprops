@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/pathfinder/heuristics
+END
+AStarHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/pathfinder/heuristics/AStarHeuristic.java
+END
+ClosestHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/pathfinder/heuristics/ClosestHeuristic.java
+END

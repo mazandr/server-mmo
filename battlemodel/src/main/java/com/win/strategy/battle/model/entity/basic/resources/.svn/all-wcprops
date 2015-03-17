@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/resources
+END
+BMResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/resources/BMResource.java
+END
+BMResourceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/resources/BMResourceHolder.java
+END
+BMUsableResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/resources/BMUsableResources.java
+END

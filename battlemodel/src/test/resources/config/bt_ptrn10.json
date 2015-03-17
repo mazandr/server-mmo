@@ -1,0 +1,12 @@
+{"field":{"maxY":50,"maxX":50,"roadCellsRect":"1x1,1x2","speedMultiplier":1,"totalBattleTime":2000000,"speedKoef":12,"fogCellsRect":"1x1,1x2"},
+"units":[{"name":"A1","lvl":1,"type":"zombie","behavior":"smartAttack","fraction":1,"position":"3x3","behaviorPrms":""},
+         {"name":"A2","lvl":1,"type":"zombie","behavior":"smartAttack","fraction":1,"position":"5x5","behaviorPrms":""}],
+"buildings":[{"name":"enemy","type":"hero_house","lvl":1,"fraction":2,"position":"40x40","winC":true,"wr":{"buildingWinRate":120},"units":{"zombie":{"count":1,"lvl":1,"behavior":"hold"}}},
+      	     {"name":"ally","type":"hero_house","fraction":1,"position":"01x40","lvl":1,"winC":true,"wr":{"buildingWinRate":120},"units":{}},
+	     {"name":"C","type":"zombiecar","fraction":1,"position":"10x10","lvl":1,"winC":false,"wr":{},"units":{"zombie":{"count":4,"lvl":1,"behavior":"smartAtack"}}},
+             {"name":"ECenemyCar","type":"zombiecar","fraction":12,"position":"20x20","lvl":1,"winC":false,"wr":{},"units":{"zombie":{"count":4,"lvl":1,"behavior":"smartAtack"}}}
+             ],
+"available_units":[],
+"hero":{"lvl":2,"position":"10x100","onfield":false},
+"cars":[],
+"available_skills":[],"garbage":[]}

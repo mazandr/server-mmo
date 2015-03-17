@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/msg_mmo_server/!svn/ver/1081/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit
+END
+BMCarrierBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMCarrierBehavior.java
+END
+BMBossDefanceBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMBossDefanceBehavior.java
+END
+BMHipnoticBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMHipnoticBehavior.java
+END
+BMPatrolBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/msg_mmo_server/!svn/ver/1081/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMPatrolBehavior.java
+END
+BMSmartAttackBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMSmartAttackBehavior.java
+END
+BMHeroBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMHeroBehavior.java
+END
+BMAttackBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMAttackBehavior.java
+END
+BMHoldPositionBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/msg_mmo_server/!svn/ver/1081/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMHoldPositionBehavior.java
+END
+BMAgresiveHoldPositionBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMAgresiveHoldPositionBehavior.java
+END
+BMBaseUnitBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior/unit/BMBaseUnitBehavior.java
+END

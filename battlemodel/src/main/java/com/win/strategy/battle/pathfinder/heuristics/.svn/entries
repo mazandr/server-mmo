@@ -1,0 +1,54 @@
+8
+
+dir
+1358
+https://src.nt.lan/svn/msg_mmo_server/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/pathfinder/heuristics
+https://src.nt.lan/svn/msg_mmo_server
+
+
+
+2014-05-12T09:05:03.917571Z
+176
+vlischyshyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54d32a4f-fbce-8b46-bc6a-2b92e1180473
+
+AStarHeuristic.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+e3e7e59e837394077b3984b5bd9a5c3a
+2014-04-17T08:41:07.549417Z
+81
+vlischyshyn
+has-props
+
+ClosestHeuristic.java
+file
+
+
+
+
+2015-02-14T13:03:20.000000Z
+1c752da11d22d248a3c7bdde098a2d06
+2014-05-12T09:05:03.917571Z
+176
+vlischyshyn
+has-props
+

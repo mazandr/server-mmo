@@ -1,0 +1,73 @@
+8
+
+dir
+1358
+https://src.nt.lan/svn/msg_mmo_server/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/components/behavior
+https://src.nt.lan/svn/msg_mmo_server
+
+
+
+2015-02-14T13:01:22.697053Z
+1325
+vlischyshyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+54d32a4f-fbce-8b46-bc6a-2b92e1180473
+
+BMBaseBehavior.java
+file
+
+
+
+
+2015-02-14T13:03:17.000000Z
+12d3b4f1c9f8387315ebe2b62945b2dd
+2014-07-31T21:01:57.709772Z
+486
+vlischyshyn
+has-props
+
+BMBattleBehavior.java
+file
+
+
+
+
+2015-02-14T13:03:17.000000Z
+a84915b3b2dd8d86610454a763f8df90
+2014-10-26T19:50:33.220060Z
+775
+vlischyshyn
+has-props
+
+BMBehaviorFactory.java
+file
+
+
+
+
+2015-02-14T13:03:17.000000Z
+1f24eda04545051d449184baaa3109fd
+2014-12-11T07:48:16.696013Z
+973
+vlischyshyn
+has-props
+
+building
+dir
+
+unit
+dir
+

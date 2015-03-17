@@ -1,0 +1,377 @@
+{
+    "buildings": {
+        "hero_house": {
+            "lvls": {
+                "lvl1": {
+                    "dml": [
+                        25,
+                        25
+                    ],
+                    "hp": 15000,
+                    "unlocks": {
+                        "bank": 1,
+                        "casino": 1,
+                        "gym": 1,
+                        "distilery": 1,
+                        "bar": 1,
+                        "warehouse": 1
+                    },
+                    "dur": 1,
+                    "hsp": 11,
+                    "xp": 0,
+                    "req": {},
+                    "sy": 9,
+                    "cost": {},
+                    "winC": false,
+                    "sx": 9,
+                    "vr": 30
+                }
+            },
+            "group": "building.common",
+            "main": true
+        },
+        "zombiecar": {
+            "group": "building.common",
+            "lvls": {
+                "lvl1": {
+                    "cost": {
+                        "coins": 100
+                    },
+                    "hp": 1200,
+                    "dur": 10,
+                    "sx": 9,
+                    "sy": 9,
+                    "xp": 10,
+                    "winC": false,
+                    "wr": {
+                        "buildingWinRate": 10
+                    },
+                    "hsp": 8,
+                    "req": {},
+                    "vr": 15,
+                    "unlocks": {}
+                }
+            }
+        },
+        "neutralCar": {
+            "group": "building.common",
+            "lvls": {
+                "lvl1": {
+                    "cost": {},
+                    "hp": 400,
+                    "dur": 0,
+                    "sx": 6,
+                    "sy": 6,
+                    "xp": 0,
+                    "winC": false,
+                    "wr": {},
+                    "hsp": 10,
+                    "req": {},
+                    "vr": 0,
+                    "unlocks": {}
+                }
+            }
+        }
+    },
+    "units": {
+        "zombie": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 150,
+                    "dps": 20,
+                    "sdr": 0,
+                    "attR": 1,
+                    "ftm": 2,
+                    "vr": 10,
+                    "attT": 1.5,
+                    "inE": {
+                        "hp": 0,
+                        "dps": 20,
+                        "sdr": 0,
+                        "attR": 15,
+                        "attT": 1.5
+                    },
+                    "cost": {
+                        "mana": 30
+                    },
+                    "dur": 20,
+                    "tt": "any",
+                    "hsp": 1,
+                    "req": {
+                        "bar": 1
+                    },
+                    "spd": 40,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 20,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 1000,
+                                "time": 0,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "offensive",
+                            "lidx": "0"
+                        },
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 50,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 1000,
+                                "time": 0,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 0,
+                            "att": "any",
+                            "group": "defensive",
+                            "lidx": "0"
+                        },
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 50,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 1,
+                                "time": 0,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "defensive",
+                            "lidx": "1"
+                        }
+                    ],
+                    "abR": 15
+                }
+            }
+        },
+        "vampire": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 100,
+                    "dps": 800,
+                    "sdr": 5,
+                    "attR": 4,
+                    "ftm": 2,
+                    "vr": 50,
+                    "attT": 1,
+                    "inE": {
+                        "hp": 0,
+                        "dps": 800,
+                        "sdr": 5,
+                        "attR": 4,
+                        "attT": 1
+                    },
+                    "cost": {
+                        "mana": 1500
+                    },
+                    "dur": 480,
+                    "tt": "units",
+                    "hsp": 3,
+                    "req": {
+                        "bar": 10
+                    },
+                    "spd": 20,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 50,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 2000,
+                                "time": 0,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "offensive"
+                        }
+                    ],
+                    "abR": 30,
+                    "aom": true
+                }
+            }
+        },
+        "hero": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 1000,
+                    "req": {},
+                    "vr": 15,
+                    "abR": 15,
+                    "spd": 50,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 100,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 1000,
+                                "time": 1000,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "offensive"
+                        }
+                    ],
+                    "cEnVal": 50,
+                    "mEnVal": 100,
+                    "unlocks": {
+                        "skill_1": 1,
+                        "skill_2": 1
+                    },
+                    "level": "lvl1",
+                    "dps": 1000,
+                    "ftm": 1,
+                    "attR": 15,
+                    "attT": 1,
+                    "sdr": 0,
+                    "tt": "any",
+                    "inE": {
+                        "attT": 1,
+                        "dps": 100,
+                        "hp": 100
+                    },
+                    "hsp": 1
+                }
+            }
+        }
+    },
+    "garbage": {},
+    "skills": {
+        "damage": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 100,
+                    "clDwn": 1000,
+                    "actions": [
+                        {
+                            "skT": "damage",
+                            "arT": "",
+                            "sdr": 20,
+                            "value": 500,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 0,
+                                "time": 0,
+                                "tick": 0
+                            },
+                            "stt": "any",
+                            "apT": "instances",
+                            "abT": "damage",
+                            "group": "offensive"
+                        },
+                        {
+                            "abT": "heal",
+                            "arT": "",
+                            "sdr": 0,
+                            "value": 0,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 0,
+                                "time": 0,
+                                "tick": 0
+                            },
+                            "group": "offensive",
+                            "stt": "any",
+                            "apT": "area"
+                        }
+                    ]
+                }
+            }
+        },
+        "moveSkill": {
+            "lvls": {
+                "lvl1": {
+                    "enCst": 100,
+                    "clDwn": 1000,
+                    "actions": [
+                        {
+                            "abT": "command_move",
+                            "arT": "",
+                            "sdr": 18,
+                            "value": 0,
+                            "acT": {
+                                "type": "",
+                                "delay": 0,
+                                "time": 5000,
+                                "tick": 0
+                            },
+                            "group": "offensive"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "heroes": {
+        "hero": {
+            "lvls": {
+                "lvl1": {
+                    "hp": 1000,
+                    "req": {},
+                    "vr": 15,
+                    "abR": 15,
+                    "spd": 50,
+                    "actions": [
+                        {
+                            "abT": "damage",
+                            "apT": "instances",
+                            "value": 100,
+                            "acT": {
+                                "type": "instant",
+                                "delay": 1000,
+                                "time": 1000,
+                                "tick": 0,
+                                "maxStack": 1
+                            },
+                            "sdr": 0,
+                            "ftm": 1,
+                            "att": "any",
+                            "group": "offensive"
+                        }
+                    ],
+                    "cEnVal": 50,
+                    "mEnVal": 100,
+                    "unlocks": {
+                        "skill_1": 1,
+                        "skill_2": 1
+                    },
+                    "level": "lvl1",
+                    "dps": 1000,
+                    "ftm": 1,
+                    "attR": 15,
+                    "attT": 1,
+                    "sdr": 0,
+                    "tt": "any",
+                    "inE": {
+                        "attT": 1,
+                        "dps": 100,
+                        "hp": 100
+                    },
+                    "hsp": 1
+                }
+            }
+        }
+    }
+}

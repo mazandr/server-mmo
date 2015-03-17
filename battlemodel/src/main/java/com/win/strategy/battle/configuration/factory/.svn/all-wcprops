@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory
+END
+BMHeroInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMHeroInstanceFactory.java
+END
+BMSkillInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMSkillInstanceFactory.java
+END
+BMBaseInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMBaseInstanceFactory.java
+END
+BMTransportInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMTransportInstanceFactory.java
+END
+BMBuildingInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMBuildingInstanceFactory.java
+END
+BMUnitInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/configuration/factory/BMUnitInstanceFactory.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions
+END
+BMActionTargetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMActionTargetType.java
+END
+BMActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMActionType.java
+END
+BMAbilitylType.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/msg_mmo_server/!svn/ver/1134/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMAbilitylType.java
+END
+BMActionExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMActionExecutor.java
+END
+BMActionProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMActionProperties.java
+END
+BMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/msg_mmo_server/!svn/ver/1154/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/actions/BMAction.java
+END

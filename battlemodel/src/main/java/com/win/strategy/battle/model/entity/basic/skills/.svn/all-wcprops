@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/skills
+END
+BMApplyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/skills/BMApplyType.java
+END
+BMBaseSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/skills/BMBaseSkill.java
+END
+BMAbilitySkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/skills/BMAbilitySkill.java
+END
+BMCommandSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/msg_mmo_server/!svn/ver/1078/branches/vwml/strategy-mmo/battlemodel/src/main/java/com/win/strategy/battle/model/entity/basic/skills/BMCommandSkill.java
+END
